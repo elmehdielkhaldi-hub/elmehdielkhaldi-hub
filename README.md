@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://your-header-image-url.com" alt="Header" width="100%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="100%">
 </div>
 
-# Hello, I'm EL MEHDI EL KHALDI 👋
+# Hello, I'm EL MEHDI EL KHALDI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <strong>Junior Full Stack Developer | Passionate about Web Technologies</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Full+Stack+Developer;Passionate+about+Web+Technologies&center=true&width=380&height=45">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 🌱 I'm currently enhancing my skills in **Frontend and Backend Development**
 
@@ -28,9 +28,11 @@
 
 🚀 Committed to writing clean, efficient, and maintainable code
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
 ## 🛠️ Technologies & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -43,7 +45,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmehdielkhadi-hub&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -72,5 +74,5 @@
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! Let's connect and build amazing things together. 😊
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Thanks for visiting my profile! Let's connect and build amazing things together.</em>
 </p>
